@@ -1,0 +1,7 @@
+pycache/
+*.pyc
+*.pyo
+.pyd
+.env
+venv/
+data/.pdf
