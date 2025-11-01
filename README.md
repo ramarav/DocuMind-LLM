@@ -1,5 +1,18 @@
-
 # 🧠 DocuMind LLM — Intelligent Document Q&A Assistant
+
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
+![Hugging Face](https://img.shields.io/badge/🤗-Hugging%20Face-yellow)
+![FAISS](https://img.shields.io/badge/Vector%20DB-FAISS-brightgreen)
+![LangChain](https://img.shields.io/badge/Framework-LangChain-lightblue)
+![Streamlit](https://img.shields.io/badge/UI-Streamlit-red?logo=streamlit)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/Project%20Status-Active-success)
+![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-orange)
+![Stars](https://img.shields.io/github/stars/ramarav/DocuMind-LLM?style=social)
+![Forks](https://img.shields.io/github/forks/ramarav/DocuMind-LLM?style=social)
+![Last Commit](https://img.shields.io/github/last-commit/ramarav/DocuMind-LLM)
+
+---
 
 DocuMind LLM is a **Generative AI-powered document assistant** built with **Hugging Face Transformers**, **FAISS**, and **LangChain**.  
 It allows users to upload PDF files, intelligently index their contents, and **ask natural language questions** about the document.
